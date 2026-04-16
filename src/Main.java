@@ -7,6 +7,7 @@ public class Main {
         Obj1.multiplication();
     }
 }
+
 class Calculations
 {
     int first;
