@@ -9,6 +9,7 @@ class A1
         System.out.println("A Called");
     }
 }
+
 class B1 extends A1
 {
     B1() {
