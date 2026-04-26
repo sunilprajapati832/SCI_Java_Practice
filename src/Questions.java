@@ -25,3 +25,6 @@ public class Questions {
         obj.M1();
     }
 }
+
+// ques: R (A,B,C,D) , FD{AB -> C, C -> D, B -> C} Is partial dependency is available ? 
+// Soln: Yes , B -> C 
