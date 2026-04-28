@@ -1,4 +1,4 @@
-// give out of this code ? (RPSC Programmer 2024)
+// Qus 1: give out of this code ? (RPSC Programmer 2024)
 class A
 {
     int a = 10;
@@ -26,5 +26,5 @@ public class Questions {
     }
 }
 
-// ques: R (A,B,C,D) , FD{AB -> C, C -> D, B -> C} Is partial dependency is available ? 
+// Qus 2: R (A,B,C,D) , FD{AB -> C, C -> D, B -> C} Is partial dependency is available ? 
 // Soln: Yes , B -> C 
