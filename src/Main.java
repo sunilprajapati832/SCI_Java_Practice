@@ -8,6 +8,7 @@ public class Main {
     }
 }
 
+
 class Calculations
 {
     int first;
